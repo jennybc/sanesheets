@@ -43,6 +43,7 @@ Brain dump. Is it a standard? A tool? IDK? But here's how it should feel:
   * No merging of the cells.
   * No formatting. OK ... maaaaybe you can have conditional formatting for visual reinforcement. In fact, it would be good to signal character data in what seems to be a numeric column.
   * Validation is supported and, indeed, strongly encouraged.
+  * Blank rows or columns, with non-blank flanking rows or columns are somehow flagged or discouraged. Because that can be a sign of people making mini-spreadsheets inside a big spreadsheet. Rethink the layout or create separate tabs.
   * Does some version control or logging, so hand edits are not lost in the sands of time. Not everyone will clean/patch data with code.
   * Manages multiple files in some sort of receptacle and offers them up via a familiar worksheet or tab interface. Individual files or tabs can be delimited data or plain text notes, preferably in markdown.
   * Open source with a liberal license.
