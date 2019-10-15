@@ -36,7 +36,7 @@ Let's call them **sanesheets**.
 Brain dump. Is it a standard? A tool? IDK? But here's how it should feel:
 
   * Read and write delimited files.
-  * Works on Mac and Windows.
+  * Works on Linux, Mac, and Windows.
   * Smart about quoting fields with embedded delimiters.
   * Line endings OMG.
   * No formulas allowed.
